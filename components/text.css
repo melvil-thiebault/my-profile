@@ -1,0 +1,30 @@
+.hello {
+  text-align: center;
+  width: 100px
+  margin: 0 auto;
+  color: blue;
+}
+
+p {
+  font-size: 25px;
+  color:green;
+  margin: 0 auto;
+
+}
+.navbar{
+
+    overflow: hidden;
+      width: 600px;
+        height: 50px;
+         margin-left: 40px;
+        font-family: Lato;
+         font-weight: lighter;
+          letter-spacing: 3px;
+}
+.navbar p {
+  font-family: Georgia;
+  display:flex;
+  justify-content: space-between;
+  text-align: center
+}
+
